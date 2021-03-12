@@ -1,0 +1,17 @@
+для подготовки:
+
+Netty
+https://netty.io/wiki/index.html
+https://www.baeldung.com/netty
+
+
+https://www.pvsm.ru/sotsial-ny-e-seti/293327
+Хранение большого количества файлов
+
+https://www.pvsm.ru/cms/281849
+Про хранение паролей в БД
+
+Клиент-сервер:
+https://habr.com/ru/post/330676/
+https://java-course.ru/begin/
+https://habr.com/ru/post/136456/
